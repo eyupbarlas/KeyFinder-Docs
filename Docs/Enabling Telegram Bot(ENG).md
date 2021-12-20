@@ -1,4 +1,4 @@
-# KeyFinder Telegram Bot Activation
+# KeyFinder Telegram Bot Activation Guide
 ## Steps
 ### Step 0
 Download **Telegram** to your smartphone(Android, iOS) to get notifications from KeyFinder. 
