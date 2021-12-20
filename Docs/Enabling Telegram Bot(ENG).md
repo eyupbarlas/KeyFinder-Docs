@@ -24,7 +24,7 @@ Download **Telegram** to your smartphone(Android, iOS) to get notifications from
    
    ![token http_api](https://ucarecdn.com/a6a0a74c-e40c-4c8b-9d4c-28c602f4af7c/)
    
-* Save that token to send to KeyFinder team. Do not share with anyone!
+* Save that token to send to the KeyFinder team. Do not share with anyone!
 
 ### Step 2
 * Secondly, we need to get our **ChatID**. To get that, we need to open Telegram app and start the conversation with **RawDataBot** (@RawDataBot). 
@@ -45,3 +45,11 @@ Download **Telegram** to your smartphone(Android, iOS) to get notifications from
   ![start bot](https://i2.wp.com/www.alphr.com/wp-content/uploads/2021/04/4-28.jpg?w=720&ssl=1)
   
   - You’ll get another message containing your First Name, Last Name, and Chat ID. Find “Chat” from the list of information.
+
+  ![data return](https://i1.wp.com/www.alphr.com/wp-content/uploads/2021/04/5-16.jpg?w=720&ssl=1)
+  
+  - Under “Chat,” you’ll see a number. It’s marked with the word “id” on the right-hand side. That’s your **Chat ID** number.
+  
+  ![chatid](https://i1.wp.com/www.alphr.com/wp-content/uploads/2021/04/6-15.jpg?w=720&ssl=1)
+  
+* After that, save that **ChatID** to send to the KeyFinder team. Do not share with anyone!
