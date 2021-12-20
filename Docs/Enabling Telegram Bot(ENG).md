@@ -1,7 +1,9 @@
 # KeyFinder Telegram Bot Activation
 ## Steps
+### Step 0
+Download **Telegram** to your smartphone(Android, iOS) to get notifications from KeyFinder. 
 ### Step 1
-* First of all, start the conversation with BotFather (@BotFather). BotFather will help us in creating the new bot.
+* First of all, start the conversation with **BotFather** (@BotFather). BotFather will help us in creating the new bot.
   - Search for @botfather in Telegram.
 
    ![botfather search](https://user-images.githubusercontent.com/72407947/146800108-96ffb18b-f71a-41fc-bb34-caa19a195267.png)
@@ -14,7 +16,7 @@
 
    ![newbot](https://ucarecdn.com/93c96757-1522-4062-a141-3530a56f66f2/)
     
-   - Enter the Display Name and User Name for the bot.
+   - Enter the Display Name and User Name for the bot. Later on you can customise the way you want, but before enter these two names.
     
    ![names](https://ucarecdn.com/861b41ff-1e77-418f-b6dd-294bd3a6d047/)
     
@@ -22,6 +24,7 @@
    
    ![token http_api](https://ucarecdn.com/a6a0a74c-e40c-4c8b-9d4c-28c602f4af7c/)
    
-   - Save that token to send to KeyFinder team. Do not share with anyone!
+* Save that token to send to KeyFinder team. Do not share with anyone!
 
 ### Step 2
+* Secondly, we need to get our **ChatID**. To get that, we need to 
