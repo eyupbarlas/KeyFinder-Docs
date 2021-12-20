@@ -3,7 +3,7 @@
 ### Step 0
 Download **Telegram** to your smartphone(Android, iOS) to get notifications from KeyFinder. 
 ### Step 1
-* First of all, start the conversation with **BotFather** (@BotFather). BotFather will help us in creating the new bot.
+* First of all, open Telegram app and start the conversation with **BotFather** (@BotFather). BotFather will help us in creating the new bot.
   - Search for @botfather in Telegram.
 
    ![botfather search](https://user-images.githubusercontent.com/72407947/146800108-96ffb18b-f71a-41fc-bb34-caa19a195267.png)
@@ -27,4 +27,21 @@ Download **Telegram** to your smartphone(Android, iOS) to get notifications from
 * Save that token to send to KeyFinder team. Do not share with anyone!
 
 ### Step 2
-* Secondly, we need to get our **ChatID**. To get that, we need to 
+* Secondly, we need to get our **ChatID**. To get that, we need to open Telegram app and start the conversation with **RawDataBot** (@RawDataBot). 
+  - Go to the search icon.
+
+  ![search icon](https://i2.wp.com/www.alphr.com/wp-content/uploads/2021/04/2-28.jpg?w=720&ssl=1)
+  
+  - Type "**@RawDataBot**" in the search dialog box and search.
+
+  ![search bot](https://i1.wp.com/www.alphr.com/wp-content/uploads/2021/04/3-30.jpg?w=720&ssl=1)
+  
+  - Select "**Telegram Bot Raw**" from the search results.
+  
+  ![select bot](https://i1.wp.com/www.alphr.com/wp-content/uploads/2021/04/3-31.jpg?w=720&ssl=1)
+  
+  - Start your conversation by pressing the Start button.
+
+  ![start bot](https://i2.wp.com/www.alphr.com/wp-content/uploads/2021/04/4-28.jpg?w=720&ssl=1)
+  
+  - You’ll get another message containing your First Name, Last Name, and Chat ID. Find “Chat” from the list of information.
