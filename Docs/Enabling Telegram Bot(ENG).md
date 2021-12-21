@@ -25,6 +25,8 @@ Download **Telegram** to your smartphone(Android, iOS) to get notifications from
    ![token http_api](https://ucarecdn.com/a6a0a74c-e40c-4c8b-9d4c-28c602f4af7c/)
    
 * Save that token to send to the KeyFinder team. Do not share with anyone!
+* Then you should follow the link that BotFather sent you to go to your bot(like *t.me/tutorial_echobot*).
+* When you get to your bot, press the start button.
 
 ### Step 2
 * Secondly, we need to get our **ChatID**. To get that, we need to open Telegram app and start the conversation with **RawDataBot** (@RawDataBot). 
